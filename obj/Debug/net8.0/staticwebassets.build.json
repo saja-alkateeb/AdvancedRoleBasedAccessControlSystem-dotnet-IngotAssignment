@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ebFvt2NRFac/UesvZB08NRxlidCm1GTeCSMPqi2GqDQ=",
+  "Source": "RoleBasedAccessControl",
+  "BasePath": "_content/RoleBasedAccessControl",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
