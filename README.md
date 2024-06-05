@@ -1,6 +1,6 @@
 # AdvancedRoleBasedAccessControlSystem-dotnet-IngotAssignment
 
-A secure web application developed using .NET Core with advanced role-based access control (RBAC) system, JWT authentication, and Entity Framework Core for ORM. Implements user registration, login, and secured endpoints.
+A secure web application developed using .NET 8 Core with advanced role-based access control (RBAC) system, JWT authentication, and Entity Framework Core for ORM. Implements user registration, login, and secured endpoints.
 
 ## Setup Instructions
 
@@ -38,10 +38,12 @@ Follow these steps to set up and run the project locally:
 5. **Build and Run the Application:**
 
 - Navigate to the root directory of the project.
-- Run the following commands to build and run the application:
-- dotnet build
-- dotnet run
-- 
+- Run the following commands to build and run the application of net 8 version :
+  ```
+  dotnet build
+  dotnet run
+   ```
+  
 6. **Test Endpoints:**
 
 - Once the application is running, you can test the endpoints using the provided Postman collection.
